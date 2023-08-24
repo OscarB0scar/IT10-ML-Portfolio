@@ -18,39 +18,9 @@ The flower species predictor uses K-NN Classification to predict the class of a 
 3. **Create KNN Model** - KNN works by measuring the euclidean distance of the point to its nearest k (in this case 5) neighbors in a multi-dimensional field. The greatest number of k neighbors near the datapoint classifies the data to that category. The data is split into training and testing subsets, then creating the `KNeighborsClassifier`, iterating through the nearest 10 datapoints to the tested point. This model is iterated through 100 times, taking away the data from the highest scoring model (calculated by model accuracy)
 4. **Confusion Matrix and Classification** - The confusion matrix compares the class the array predicts, against the true class of the data, a perfectly accurate model would only have a value greater than 0 in each corresponding true value and predicted value. The classification report cacluates precision, recall, F1 Score, and support of the trained classification model.
 
-
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+Oscar Ho
+17677
 
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [code-basics]([https://github.com/matiassingers/awesome-readme](https://www.youtube.com/watch?v=CQveSaMyEwM&t=1s&ab_channel=codebasics)https://www.youtube.com/watch?v=CQveSaMyEwM&t=1s&ab_channel=codebasics)
