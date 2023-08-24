@@ -13,9 +13,8 @@ The flower species predictor uses K-NN Classification to predict the class of a 
 * sepal width in cm
 * petal length in cm
 * petal width in cm
-```
-code blocks for commands
-```
+1. **Loading Dataset** - The tool loads the iris data from the sklearn dataset `load_iris`, then being processed into an array of datapoints, adding a `iris.target`, being the index of each class the datapoint is.
+2. **Plotting Graphs** - The tool 
 
 ## Help
 
