@@ -4,7 +4,7 @@ Welcome to the lienar regression project. This is a supervised machine learning 
 
 ## Description
 
-In this algorithm we are using the fish market dataset from [kaggle](https://www.kaggle.com/datasets/aungpyaeap/fish-market). The dataset contains data from 50 * 3 instances, 1 for each class of flower. Attributes include Species, Weight, Length1, Length2, Length3, Height and Width.
+In this algorithm we are using the fish market dataset from [kaggle](https://www.kaggle.com/datasets/aungpyaeap/fish-market). The dataset contains regarding 7 common market fish. Attributes include Species, Weight, Length1, Length2, Length3, Height and Width.
 
 ## Getting Started
 ### Executing program
