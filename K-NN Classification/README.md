@@ -23,4 +23,4 @@ Oscar Ho
 17677
 
 ## Acknowledgments
-* [code-basics](https://www.youtube.com/watch?v=CQveSaMyEwM&t=1s&ab_channel=codebasics)
+* [code-basics](https://youtu.be/CQveSaMyEwM)
