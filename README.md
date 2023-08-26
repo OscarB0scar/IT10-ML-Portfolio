@@ -3,7 +3,7 @@
 
 ---
 
-** Completed Portfolio Tasks**
+**Completed Portfolio Tasks**
 1. GitHub Project Repo Setup
   - Completed in the setup of this Github repository
 2. Supervised Learning - Linear Regression
