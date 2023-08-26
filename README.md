@@ -22,10 +22,10 @@ Oscar Ho
 
 ## References
 * [code-basics](https://youtu.be/CQveSaMyEwM)
-* [TechWithTim - Python Machine Learning Tutorial: Implementing K-Means Clustering]
+* [TechWithTim - Python Machine Learning Tutorial: Implementing K-Means Clustering](https://youtu.be/i5fIB4Gqaec)
 * * [TechWithTim - Python Machine Learning Tutorial #2](https://youtu.be/45ryDIPHdGg)
 * [TechWithTim - Python Machine Learning Tutorial #3](https://youtu.be/1BYu65vLKdA?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr)
-* [TechWithTim - Python Machine Learning Tutorial #4](https://youtu.be/bFTIQDCvIrc)(https://youtu.be/i5fIB4Gqaec)
+* [TechWithTim - Python Machine Learning Tutorial #4](https://youtu.be/bFTIQDCvIrc)
 * Allinson, M. (2023). How Artificial Intelligence and Machine Learning Will Impact Software Development. [online] Robotics & Automation News. Available at: https://roboticsandautomationnews.com/2023/04/26/how-artificial-intelligence-and-machine-learning-will-impact-software-development/67672/ [Accessed 25 Aug. 2023].
 * Hanna Shnaider. (2022). The Use Of ML In Software Development - FortySeven. [online] Available at: https://fortyseven47.com/blog/the-use-of-ml-in-software-development/ [Accessed 25 Aug. 2023].
 * Goncharov, I. (2023). Weights & Biases. [online] Available at: https://wandb.ai/ivangoncharov/AVs-report/reports/The-Role-Of-Machine-Learning-In-Autonomous-Vehicles--VmlldzoyNTExMDE3 [Accessed 26 Aug. 2023].
