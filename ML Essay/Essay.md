@@ -10,11 +10,9 @@ In the future, unsupervised learning, and artificial intelligence are predicted 
 
 The future of unsupervised machine learning in the realms of software development is exciting for both businesses and customers, as a tool to handle the big data consumers send to corporations. The very nature of trade will be optimised for humans, due to the efficiency and effectiveness of ML for predictive analysis, language processing, and data analysis, improving customer experience.
 
-Bibliography 
-Allinson, M. (2023). How Artificial Intelligence and Machine Learning Will Impact Software Development. [online] Robotics & Automation News. Available at: https://roboticsandautomationnews.com/2023/04/26/how-artificial-intelligence-and-machine-learning-will-impact-software-development/67672/ [Accessed 25 Aug. 2023].
+** Bibliography**
 
-Hanna Shnaider. (2022). The Use Of ML In Software Development - FortySeven. [online] Available at: https://fortyseven47.com/blog/the-use-of-ml-in-software-development/ [Accessed 25 Aug. 2023].
-
-Goncharov, I. (2023). Weights & Biases. [online] Available at: https://wandb.ai/ivangoncharov/AVs-report/reports/The-Role-Of-Machine-Learning-In-Autonomous-Vehicles--VmlldzoyNTExMDE3 [Accessed 26 Aug. 2023].
-Briers, S. (2021). AI system claims to prevent more than 90% of crashes. [online] Fleetnews.co.uk. Available at: https://www.fleetnews.co.uk/news/fleet-industry-news/2021/04/16/ai-system-claims-to-prevent-more-than-90-of-crashes#:~:text=%E2%80%9COur%20data%20shows%20that%20the,around%2092%25%20of%20accidents.%E2%80%9D [Accessed 26 Aug. 2023].
-Briers, S. (2021). AI system claims to prevent more than 90% of crashes. [online] Fleetnews.co.uk. Available at: https://www.fleetnews.co.uk/news/fleet-industry-news/2021/04/16/ai-system-claims-to-prevent-more-than-90-of-crashes#:~:text=%E2%80%9COur%20data%20shows%20that%20the,around%2092%25%20of%20accidents.%E2%80%9D [Accessed 26 Aug. 2023].
+ - Allinson, M. (2023). How Artificial Intelligence and Machine Learning Will Impact Software Development. [online] Robotics & Automation News. Available at: https://roboticsandautomationnews.com/2023/04/26/how-artificial-intelligence-and-machine-learning-will-impact-software-development/67672/ [Accessed 25 Aug. 2023].
+ - Hanna Shnaider. (2022). The Use Of ML In Software Development - FortySeven. [online] Available at: https://fortyseven47.com/blog/the-use-of-ml-in-software-development/ [Accessed 25 Aug. 2023].
+ - Goncharov, I. (2023). Weights & Biases. [online] Available at: https://wandb.ai/ivangoncharov/AVs-report/reports/The-Role-Of-Machine-Learning-In-Autonomous-Vehicles--VmlldzoyNTExMDE3 [Accessed 26 Aug. 2023].
+ - Briers, S. (2021). AI system claims to prevent more than 90% of crashes. [online] Fleetnews.co.uk. Available at: https://www.fleetnews.co.uk/news/fleet-industry-news/2021/04/16/ai-system-claims-to-prevent-more-than-90-of-crashes#:~:text=%E2%80%9COur%20data%20shows%20that%20the,around%2092%25%20of%20accidents.%E2%80%9D [Accessed 26 Aug. 2023].
