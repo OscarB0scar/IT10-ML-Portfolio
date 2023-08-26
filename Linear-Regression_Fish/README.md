@@ -1,6 +1,6 @@
 # Predicting fish weight using linear regression
 
-Welcome to the lienar regression project. This is a supervised machine learning algorithm for predicting  fish weight, given lengths, height, and width, using the linear regression technique. The goal of this program is to predict the weigth of a given fish, based on cross length, diagonal length, vertical length, diagonal length, height and width. 
+Welcome to the linear regression project. This is a supervised machine learning algorithm for predicting  fish weight, given lengths, height, and width, using the linear regression technique. The goal of this program is to predict the weigth of a given fish, based on cross length, diagonal length, vertical length, diagonal length, height and width. 
 
 ## Description
 
